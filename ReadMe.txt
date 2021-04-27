@@ -16,3 +16,6 @@ font awesome social media icons: class -> "fab fa-twitter fa-3x"
 
 
 *getAttribute() method used.
+
+*Math.ceil() method used.
+
